@@ -1,0 +1,10 @@
+C:\Users\crossent\source\repos\ChangeNameApp\ChangeNameApp\bin\Debug\ChangeNameApp.exe.config
+C:\Users\crossent\source\repos\ChangeNameApp\ChangeNameApp\bin\Debug\ChangeNameApp.exe
+C:\Users\crossent\source\repos\ChangeNameApp\ChangeNameApp\bin\Debug\ChangeNameApp.pdb
+C:\Users\crossent\source\repos\ChangeNameApp\ChangeNameApp\obj\Debug\ChangeNameApp.csprojAssemblyReference.cache
+C:\Users\crossent\source\repos\ChangeNameApp\ChangeNameApp\obj\Debug\ChangeNameApp.Form1.resources
+C:\Users\crossent\source\repos\ChangeNameApp\ChangeNameApp\obj\Debug\ChangeNameApp.Properties.Resources.resources
+C:\Users\crossent\source\repos\ChangeNameApp\ChangeNameApp\obj\Debug\ChangeNameApp.csproj.GenerateResource.cache
+C:\Users\crossent\source\repos\ChangeNameApp\ChangeNameApp\obj\Debug\ChangeNameApp.csproj.CoreCompileInputs.cache
+C:\Users\crossent\source\repos\ChangeNameApp\ChangeNameApp\obj\Debug\ChangeNameApp.exe
+C:\Users\crossent\source\repos\ChangeNameApp\ChangeNameApp\obj\Debug\ChangeNameApp.pdb
